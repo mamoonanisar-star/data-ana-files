@@ -27,7 +27,7 @@ If your main script imports `torchvision` (for example `import torchvision.trans
 Run your script with:
 
 ```bash
-python "Hyperspectral Image Classification and Segmentation.py"
+python "<your_main_script>.py"
 ```
 
 Or run the notebook:
